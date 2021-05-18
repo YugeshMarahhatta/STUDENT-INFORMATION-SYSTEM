@@ -1,0 +1,37 @@
+
+  .main{
+    text-shadow: thistle;
+    margin: 10px;
+    padding: 5px;
+    background-color: #5fcf80;
+    color: whitesmoke;
+    text-align: center;
+  }
+  .intro{
+    margin: 30px;
+    padding: 5px;
+    background-color:##5fcf80;
+    color:white;
+    text-align:center; 
+  }
+  
+  .row {
+    display: flex;
+    background-color: #20291f;
+  }
+  
+  /* Create two equal columns that sits next to each other */
+  .column1{
+      margin: 20px;
+    flex: 50%;
+    padding: 10px;
+    height: 250px;
+    color: #5fcf80;
+  }
+  .column2{
+      margin: 20px;
+    flex: 50%;
+    padding: 10px;
+    height: 250px; 
+    color:#5fcf80
+  }

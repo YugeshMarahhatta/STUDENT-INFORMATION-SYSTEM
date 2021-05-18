@@ -1,0 +1,52 @@
+.bca{
+    height: 400px;
+    width: 400px;
+}
+.bbs{
+    height: 400px;
+    width: 400px;
+}
+.mba{
+    height: 400px;
+    width: 400px;
+}
+.addr{
+    text-align: center;
+    color:#152018;
+    text-decoration-color: tan;
+  }
+  .smedia{
+    text-align: center;
+  }
+  .facebook{
+    padding: 20px;
+    width: 50px;
+    color: white;
+    background-color: blue;  
+  }
+  .instagram{
+    padding: 20px;
+    width: 50px;
+    color: white;
+    background-color: #8a3ab9;  
+  }
+  .twitter{
+    padding: 20px;
+    width: 50px;
+    color: white;
+    background-color: #00acee;  
+  }
+  .copyright{
+    text-align: center;
+  }
+  h2{
+      color: rgb(7, 14, 1);
+      text-align:center;
+      
+  }
+  h2:hover{
+      color: lightblue;
+  }
+  #message{
+      text-align:center;
+  }

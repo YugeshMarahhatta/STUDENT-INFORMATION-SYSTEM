@@ -1,0 +1,28 @@
+p{
+    margin: 50px;;
+    text-align: center;
+    color: #5fcf80;
+  
+}
+h3{
+    border-top: 5px solid rgb(224, 179, 30);
+    margin:20px;
+    text-align: center;
+    color: rgb(161, 118, 62);
+}
+h2{
+    color: rgb(8, 14, 3);
+    text-align:center
+}
+.bca{
+    height: 400px;
+    width: 400px;
+}
+.bbs{
+    height: 400px;
+    width: 400px;
+}
+.mba{
+    height: 400px;
+    width: 400px;
+}
